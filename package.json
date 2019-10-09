@@ -24,7 +24,6 @@
     "type": "git",
     "url": "git+https://github.com/rhom6us/webpack-match-plugin.git"
   },
-  "private": true,
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^24.0.18",

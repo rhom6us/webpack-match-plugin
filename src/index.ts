@@ -1,2 +1,2 @@
 import { WatchFilterPlugin } from './WatchFilterPlugin';
-export default WatchFilterPlugin;
+export = WatchFilterPlugin;

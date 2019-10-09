@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    
+    "target": "es5",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "lib": ["es2015"],
+    "strict": true,
+    "noUnusedLocals": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+
+    "inlineSources": true,
+    "sourceMap": true,
+
+    "noEmitOnError": true,
+    "rootDir": "src",
+    "outDir": "dist",
+    "typeRoots": ["node_modules/@types"],
+    "declaration": true
+    
+  },
+}
